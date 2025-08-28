@@ -36,7 +36,7 @@ Se plantea la creación de una aplicación Android con una estructura bien defin
 
 El proyecto incluirá:
 
-- Arquitectura limpia y organizada (como MVVM o Clean Architecture).
+- Arquitectura limpia y organizada.
 - Persistencia de información tanto en almacenamiento local como en la nube.
 - Diseño responsivo que se adapte a distintos tamaños de pantalla.
 - Documentación técnica, incluyendo instrucciones de uso y detalles de implementación.
